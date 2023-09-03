@@ -23,6 +23,10 @@
     {
       "day": 6,
       "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
     }
   ],
   "words": [
@@ -98,20 +102,6 @@
     },
     {
       "day": "1",
-      "eng": "dog",
-      "kor": "강아지",
-      "isDone": false,
-      "id": 14
-    },
-    {
-      "day": "1",
-      "eng": "pet",
-      "kor": "애완동물",
-      "isDone": false,
-      "id": 15
-    },
-    {
-      "day": "1",
       "eng": "pet",
       "kor": "애완동물",
       "isDone": false,
@@ -158,6 +148,13 @@
       "kor": "사과",
       "isDone": false,
       "id": 22
+    },
+    {
+      "day": "1",
+      "eng": "pencile",
+      "kor": "연필",
+      "isDone": false,
+      "id": 23
     }
   ]
 }

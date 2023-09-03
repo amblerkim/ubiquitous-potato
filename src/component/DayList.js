@@ -6,6 +6,7 @@ export default function DayList(){
 
   if (days.length === 0) {
     return <span>Loading...</span>;
+    <h1>test</h1>;
   }
 
   return (

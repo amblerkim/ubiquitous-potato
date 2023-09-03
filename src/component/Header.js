@@ -11,7 +11,7 @@ export default function Header(){
             단어추가
           </Link>
           <Link to="/create_day" className="link">
-            Day추가
+            Day추가, test addition
           </Link>
         </div> 
       </div>
